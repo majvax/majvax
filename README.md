@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majvax&label=Profile%20views&color=0e75b6&style=flat" alt="majvax" /> </p>
 
-- 🔭 Je travaille pour l'instant sur [la 5Y22 team](https://github.com/majvax/5Y22)
+- 🔭 Je travaille pour l'instant sur mes projets en NSI
 
-- 🌱 Je suis en train d'apprendre **Bootstrap ainsi que le C**
+
+- 🌱 Je suis en train d'apprendre le **C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

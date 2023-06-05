@@ -8,9 +8,7 @@
 
 - 🌱 Je suis en train d'apprendre le **C++**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-
 # Youtube 
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucm1h9gi53oqjtsjj63dltzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucm1h9gi53oqjtsjj63dltzw" height="30" width="40" /></a>
 </p>

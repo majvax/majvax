@@ -8,7 +8,7 @@
 <h3 align="center">A passionate Belgian developer 💕</h3>
 
 
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row;">
 
 
 <div>
@@ -22,14 +22,14 @@
 - 🌱 Average neovim user 
   
 
-- 🌑 Catppuccin enjoyer
+- 🌑 Average catppuccin enjoyer
   
 
 - ⚡ Fun fact: I use arch in wsl2 (Please don't roast me)
 
 </div>
 <div>
-<img src="./image/banner.png">
+<img src="./image/banner.png" width="200">
 </div>
 </div>
 

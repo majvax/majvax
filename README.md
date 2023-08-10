@@ -7,8 +7,23 @@
 
 <h3 align="center">A passionate Belgian developer 💕</h3>
 
+<img src="./image/banner.png" width="200" align="right">
 
-<div style="display: flex; flex-direction: row;">
+
+<div align="left">
+    <br/>
+    <br/>
+        <ul>
+            <li>🔭 I'm currently learning C++</li>
+            <li>🌱 Average neovim user</li>
+            <li>🌑 Average catppuccin enjoyer</li>
+            <li>⚡ Fun fact: I use arch in wsl2 (Please don't roast me)</li>
+        </ul>
+</div>
+
+<br>
+
+<!-- <div style="display: flex; flex-direction: row;">
     <div align="left">
         <br/>
         <br/>
@@ -22,7 +37,7 @@
     <div align="right">
         <img src="./image/banner.png" width="200">
     </div>
-</div>
+</div> -->
 
 <hr>
 

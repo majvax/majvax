@@ -31,7 +31,3 @@
     <li>🐱‍👤 Fun fact: I also love African beat</li>
 </ul>
 </div>
-
-<hr>
-
-<img src="./image/banner.png" align="center">

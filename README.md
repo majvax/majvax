@@ -2,15 +2,14 @@
     <img src="./image/header.png"/>
 </div>
 
+<hr/>
 
-<h1 align="center">A passionate Belgian developer 💕</h3>
 
-<!-- <img src="./image/banner.png" width="300" align="right"> -->
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=xavdejam&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" align="right">
 
+<h3 align="center">A passionate Belgian developer 💕<h3>
+
 <div align="left">
-    <br/>
-    <br/>
         <ul>
             <li>🔭 I'm currently learning C++</li>
             <li>🌱 Average neovim user</li>

@@ -9,7 +9,7 @@
 
 
 <div style="display: flex; flex-direction: row;">
-    <div>
+    <div align="left">
         <br/>
         <br/>
             <ul>
@@ -19,7 +19,7 @@
                 <li>⚡ Fun fact: I use arch in wsl2 (Please don't roast me)</li>
             </ul>
     </div>
-    <div>
+    <div align="right">
         <img src="./image/banner.png" width="200">
     </div>
 </div>
@@ -49,4 +49,3 @@
 </div>
 
 <hr/>
-

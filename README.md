@@ -5,7 +5,7 @@
 
 <h2 align="center">A passionate Belgian developer 💕</h3>
 
-<img src="./image/banner.png" width="200" align="right">
+<img src="./image/banner.png" align="right">
 
 
 <div align="left">

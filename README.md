@@ -24,7 +24,7 @@
                 <li><b>😼 Fun fact: I also love African beat</b></li>
             </ul>
         </td>
-        <td><img src="https://spotify-github-profile.vercel.app/api/view?uid=xavdejam&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true"></tr>
+        <td><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xavdejam&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true"></tr>
     </tr>
 </table>
 

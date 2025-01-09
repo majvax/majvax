@@ -13,7 +13,7 @@
         <td>
             <ul>
                 <h3 align="center">A passionate Belgian dev 💕</h3>
-                <li><b>💪 I'm currently masteeing C++</b></li>
+                <li><b>💪 I'm currently mastering C++</b></li>
                 <li><b>🌱 Average neovim user</b></li>
                 <li><b>🌑 I have good taste since I use catppuccin theme</b></li>
                 <li><b>⚡ I use arch btw <s>but in wsl2</s> (not anymore✌️, arch too good)</b></li>
